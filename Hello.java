@@ -1,2 +1,3 @@
-# Mayoi01
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+class Hello{
+	System.out.println("Hello");
+}
