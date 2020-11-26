@@ -1,3 +1,6 @@
 class Hello{
-	System.out.println("Hello World");
+	int i;
+	System.out.println("Hello World！");
+	System.out.println("Mayoi");
 }
+
